@@ -1,5 +1,5 @@
 /*
-    Student: Camdyn Bordelon
+    Student: Camdyn
     Class: CISP 310
     Assignment 1
 
